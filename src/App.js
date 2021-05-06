@@ -4,7 +4,7 @@ function App() {
   return (
     <div className={style['foo-container']}>
     <input type='text'></input>
-    <button type="button" className={style['my-apricot']}>Black</button>
+    <button type="button" className={style.myApricot}>Black</button>
     </div>
   );
 }
